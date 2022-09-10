@@ -3,6 +3,10 @@
 ### Overview of Analysis:
 The purpose of this analysis is to review NYC Citi Bike data and use this information to create a business proposal for a similar bike sharing program in Des Moines.
 
+[Link to Dashboard](https://public.tableau.com/app/profile/trina8852/viz/CitiBikeAnalysis_16332922400160/CitiBike)
+
+
+
 ### Results:
 **Checkout Times for Users**
 
@@ -58,9 +62,6 @@ The following shows the proportion of one-time customers to annual subscribers
 ![7-cust_to_sub](https://user-images.githubusercontent.com/86018601/135772312-6e1b6ae0-bd5b-4ca9-8b74-a1b2591470ad.png)
 
 
-
-The following is the Tableau Public line with further details on the analysis:
-[Link to Dashboard](https://public.tableau.com/app/profile/trina8852/viz/CitiBikeAnalysis_16332922400160/CitiBike)
 
 
 
